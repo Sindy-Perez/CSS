@@ -1,0 +1,24 @@
+h2,h3,h4, h5, h6{
+    color: green;
+}
+h1{
+    font-size: 70px;
+    color: indigo;
+}
+h2{
+    font-size: 40;
+    color: mediumblue;
+}
+h3{
+    font-size: 30;
+    color: mediumvioletred;
+}
+h4{
+    color: maroon;
+}
+h5{
+    color: orange;
+}
+h6{
+    color: purple;
+}

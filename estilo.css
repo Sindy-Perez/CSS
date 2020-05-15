@@ -1,0 +1,10 @@
+#primer-parrafo{
+    font-size: 27pt;
+    color: forestgreen;
+    font-weight: bold;
+}
+.segundo-parrafo{
+    font-weight: 16pt;
+    color: indigo;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

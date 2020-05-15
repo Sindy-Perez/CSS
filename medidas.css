@@ -1,0 +1,14 @@
+body{
+    font-size: 16px;    
+}
+div{
+    font-size: 2em;
+    color: indigo;
+}
+div{
+    width: 50%;
+    background-color: orange;
+    margin: 10px 40 px;
+    padding: 30px;
+    border: 10px solid #000000;
+}
